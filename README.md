@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-195E20?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-3e190a?style=for-the-badge&logo=go&logoColor=white" />
 <br>
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matchingCube&theme=vision-friendly-dark&layout=compact&langs_count=10&hide_title=false"/>
